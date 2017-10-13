@@ -1,0 +1,64 @@
+
+#header{
+position:relative;
+overflow: hidden;	
+}
+#text_menu{
+	text-align:right;
+	margin: 10px 50px;
+}
+
+.logo img{
+	max-width: 100%;
+	width:70px;
+	position: absolute;
+	/*
+	//
+	//margin: 500px;*/
+	
+}
+#search_div{
+display: inline-block;
+float: right;
+margin: 10px 50px;
+
+	
+	
+}
+
+p {
+font-size:11px;
+padding: 0;	
+}
+
+.foto{
+	width:400px;
+	margin: 10px 0;
+}
+.avatar{
+width:40px;
+height:40px;
+float:left;
+margin-right: 10px;	
+}
+
+.like{
+	width: 20px;
+	margin: 0 10px 0 0 ; 
+	float:left;
+}
+
+
+
+.content_user{
+	padding: 15px;
+	max-width: 400px;
+    margin: 0 auto;
+}
+
+.content_footer{
+	margin: 0 ;
+}
+.content_footer p {
+	clear:both;
+}
