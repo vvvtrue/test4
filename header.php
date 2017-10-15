@@ -11,12 +11,12 @@
     		  <a href=""><img src="image/logo.png" /></a>
         </div>	
 		<div id="text_menu">
-			<a href="">Лента</a>
+			<a href="index.php">Лента</a>
 			<a href="add_note.php">Добавить запись</a>
-			<a href="">О проекте</a>
+			<a href="about.php">О проекте</a>
 		</div>		
 		<div id="search_div">
-  		<form action="" method="get">
+  		<form action="index.php" method="get">
   			<input type="text" name="search" placeholder="Поиск...">
   			<input type="submit" value="GO">
   		</form>
